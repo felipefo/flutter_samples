@@ -1,2 +1,1 @@
-# flutter_samples
-Flutter repository samples 
+Flutter repository with flutter samples.
