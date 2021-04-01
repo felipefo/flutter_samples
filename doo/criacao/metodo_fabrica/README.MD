@@ -19,7 +19,7 @@ Este projeto mostra como utilizar o padrão de projetos método fábrica.
 
 ~~~flutter
 
-'''class FactoryIconButton{
+class FactoryIconButton{
 
       static getIconButton(String buttonType, State state){
          MyHomePageState myState  = state;
