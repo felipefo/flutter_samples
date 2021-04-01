@@ -3,8 +3,10 @@
 Este projeto mostra como utilizar o padrão de projetos método fábrica. 
 
 ## Código do método fábrica 
+
 ~~~flutter
-class FactoryIconButton{
+
+ˋˋˋclass FactoryIconButton{
 
       static getIconButton(String buttonType, State state){
          MyHomePageState myState  = state;
@@ -27,9 +29,8 @@ class FactoryIconButton{
          }
        return iconButton;
       }
-
-
 }
+
 
 ## Como rodar
 
