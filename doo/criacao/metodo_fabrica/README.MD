@@ -1,7 +1,9 @@
 
+## Descrição
 Este projeto mostra como utilizar o padrão de projetos método fábrica. 
 
-''
+## Código do método fábrica 
+~~~flutter
 class FactoryIconButton{
 
       static getIconButton(String buttonType, State state){
@@ -29,9 +31,13 @@ class FactoryIconButton{
 
 }
 
+## Como rodar
 
-'' \$ fluter devices
+ˋˋˋ \$ fluter devices
 
-'' \$ fluter run
+ˋˋˋ \$ fluter run
 
+## Resultado
+
+![Resultado](https://github.com/felipefo/flutter_samples/blob/main/doo/criacao/metodo_fabrica/visualizacao.png)
 
