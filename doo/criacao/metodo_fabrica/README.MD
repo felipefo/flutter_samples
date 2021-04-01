@@ -2,6 +2,19 @@
 ## Descrição
 Este projeto mostra como utilizar o padrão de projetos método fábrica. 
 
+
+
+## Como rodar
+
+ˋˋˋ \$ fluter devices
+
+ˋˋˋ \$ fluter run
+
+## Resultado
+
+![Resultado](https://github.com/felipefo/flutter_samples/blob/main/doo/criacao/metodo_fabrica/visualizacao.png)
+
+
 ## Código do método fábrica 
 
 ~~~flutter
@@ -30,15 +43,3 @@ Este projeto mostra como utilizar o padrão de projetos método fábrica.
        return iconButton;
       }
 }
-
-
-## Como rodar
-
-ˋˋˋ \$ fluter devices
-
-ˋˋˋ \$ fluter run
-
-## Resultado
-
-![Resultado](https://github.com/felipefo/flutter_samples/blob/main/doo/criacao/metodo_fabrica/visualizacao.png)
-
